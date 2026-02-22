@@ -8,6 +8,8 @@ A real-time terminal system-resource monitor built with the
 [Bubble Tea](https://github.com/charmbracelet/bubbletea) TUI framework
 following the Elm Architecture (Model / Update / View).
 
+![output1](https://github.com/user-attachments/assets/1412454e-0234-43cf-a86b-25a0a47a871f)
+
 ```
  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
  ┃ ⠹  INFGO                                    myhost.local  ● LIVE  ┃
