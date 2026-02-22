@@ -294,4 +294,4 @@ total = sum(cores) / len(cores)
 
 ## License
 
-[MIT](LICENSE) © 2024 infgo contributors
+[MIT](LICENSE) © 2026 infgo contributors
