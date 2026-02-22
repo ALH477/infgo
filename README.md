@@ -9,6 +9,8 @@ A real-time terminal system-resource monitor built with the
 following the Elm Architecture (Model / Update / View).
 
 ![output1](https://github.com/user-attachments/assets/1412454e-0234-43cf-a86b-25a0a47a871f)
+<img width="876" height="581" alt="image" src="https://github.com/user-attachments/assets/63b5346f-b22d-4d3d-a284-0d829a56a1b6" />
+
 
 ```
  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
