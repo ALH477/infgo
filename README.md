@@ -1,4 +1,4 @@
-# ⚡ infgo
+# infgo
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-a78bfa.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.22+-06b6d4.svg)](https://go.dev)
